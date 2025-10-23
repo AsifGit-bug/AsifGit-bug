@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/asif-ahmed-967b2527b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asif-ahmed-967b2527b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/asif-bin-a-rahman-ok22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asif-ahmed-967b2527b" height="30" width="40" /></a>
 <a href="https://instagram.com/mmasif22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmasif22" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/asif2k25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="asif2k25" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/asif2k23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="asif2k23" height="30" width="40" /></a>
